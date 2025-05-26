@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/chiragbisht/chiragbisht/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg" alt="Snake animation" />
 
 ###
