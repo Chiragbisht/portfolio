@@ -1,12 +1,20 @@
-
+<p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=chiragbisht"/>
+    <img align="center" src="https://img.shields.io/github/stars/chiragbisht?style=flat&label=Total%20Stars"/> 
+    <img align="center" src="https://img.shields.io/github/followers/chiragbisht?style=flat&label=Followers"/>
+    <a href="https://github.com/chiragbisht?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
+    <img align="center" src="https://img.shields.io/badge/Twitter-%40Chiraggbisht-blue?style=flat&labelColor=gray"/>
+    <a href="https://www.linkedin.com/in/chiragbisht/"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&labelColor=gray"/></a>
+    <img align="center" src="https://img.shields.io/badge/Love-Coding-blue?style=flat&labelColor=gray"/>
+</p>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragbisht&theme=dracula" alt="Profile Details" style="max-width: 100%; width: 685px;">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragbisht&theme=dracula&exclude=html,css,javascript,typescript,c,c%2B%2B,java,ruby,go,php" alt="Repos per Language" style="flex: 1; max-width: 50%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragbisht&theme=dracula&exclude=html,css,javascript,typescript,c,c%2B%2B,java,ruby,go,php" alt="Most Commit Language" style="flex: 1; max-width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbisht&layout=compact&theme=dracula&hide=html,css,javascript,typescript,c,c%2B%2B,java,ruby,go,php" alt="Top Languages" style="flex: 1; max-width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbisht&layout=compact&theme=dracula&hide=html,css,javascript,typescript,c,c%2B%2B,java,ruby,go,php" alt="Top Languages" style="flex: 1; max-width: 50%;">
 </div>
 
 <br>
