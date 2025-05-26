@@ -2,15 +2,12 @@
 
 <br>
 
-<h4 align="left">💫 About Me:<br>🔭 I'm currently working on Python and Generative AI<br>👯 I'm looking to collaborate on backend dev<br>🌱 I'm currently learning Prompt Engineering</h4>
+<h4 align="left">🔭 I'm currently working on Python and Generative AI<br>👯 I'm looking to collaborate on backend dev<br>🌱 I'm currently learning Prompt Engineering</h4>
 
-<br>gn="left">💫 About Me:</h1>
+<br>
+<br>
 
-###
-
-<h4 align="left">💫 About Me:<br>🔭 I’m currently working on Python and Generative AI<br>👯 I’m looking to collaborate on backend dev<br>🌱 I’m currently learning Prompt Engineering</h4>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -43,6 +40,8 @@
 <br>
 <br>
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiragbisht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragbisht&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -50,6 +49,8 @@
 
 <br>
 <br>
+
+## 🌐 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chiragbisht/" target="_blank">
@@ -63,6 +64,10 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg" alt="Snake animation" />
+</div>
 
 <br>
