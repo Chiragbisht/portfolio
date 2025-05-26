@@ -1,12 +1,4 @@
-<p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=chiragbisht"/>
-    <img align="center" src="https://img.shields.io/github/stars/chiragbisht?style=flat&label=Total%20Stars"/> 
-    <img align="center" src="https://img.shields.io/github/followers/chiragbisht?style=flat&label=Followers"/>
-    <a href="https://github.com/chiragbisht?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
-    <img align="center" src="https://img.shields.io/badge/Twitter-%40Chiraggbisht-blue?style=flat&labelColor=gray"/>
-    <a href="https://www.linkedin.com/in/chiragbisht/"><img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&labelColor=gray"/></a>
-    <img align="center" src="https://img.shields.io/badge/Love-Coding-blue?style=flat&labelColor=gray"/>
-</p>
+
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragbisht&theme=dracula" alt="Profile Details" style="max-width: 100%; width: 685px;">
