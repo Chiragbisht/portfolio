@@ -54,9 +54,9 @@
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg">
-      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Chiragbisht/portfolio/output/snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiragbisht/Chiragbisht/output/snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiragbisht/Chiragbisht/output/snake.svg">
+      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Chiragbisht/Chiragbisht/output/snake.svg">
     </picture>
 </p>
 
