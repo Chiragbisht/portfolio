@@ -5,6 +5,15 @@
 <h4 align="left">💫 About Me:<br>🔭 I'm currently working on Python and Generative AI<br>👯 I'm looking to collaborate on backend dev<br>🌱 I'm currently learning Prompt Engineering</h4>
 
 <br>
+<br>
+
+<div align="left">>💫 About Me:</h1>
+
+<br>
+
+<h4 align="left">💫 About Me:<br>🔭 I'm currently working on Python and Generative AI<br>👯 I'm looking to collaborate on backend dev<br>🌱 I'm currently learning Prompt Engineering</h4>
+
+<br>
 <br>gn="left">💫 About Me:</h1>
 
 ###
